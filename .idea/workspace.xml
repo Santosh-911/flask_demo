@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66937d3d-7c82-4e61-9f51-56ae6e15e960" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624160428110" />
-    <state x="1300" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624160978987">
+    <state x="1300" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624555761701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1300" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624160978987" />
+    <state x="1300" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624555761701" />
     <state x="1154" y="283" key="FileChooserDialogImpl" timestamp="1624542381076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
